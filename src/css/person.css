@@ -1,0 +1,9 @@
+.pers {
+  width: 400px;
+  background-color: tomato;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 15px;
+}
